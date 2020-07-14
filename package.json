@@ -1,6 +1,5 @@
 {
   "name": "user_directory",
-  "homepage": "https://github.com/Zypherone/user_directory",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
